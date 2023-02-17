@@ -18,10 +18,48 @@ header {
 }
 
 body {
-	background-image: url("../images/newsletter_Beach.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	box-sizing: border-box;
+}
+
+form {
+	text-align: center;
+	font-size: 30px;
+}
+
+.p2 {
+	font-size: 70px;
+	font-weight: 900;
+}
+
+.btn {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 50px;
+}
+
+.bodyhome {
+	  background-image: url("../images/home_Beach.jpg")
+}
+
+.bodygrace {
+	background-image: url("../images/GraceBayBeach.jpg")
+}
+
+.bodynew {
+	background-image: url("../images/newsletter_Beach.jpg")
+}
+
+.bodyshoal {
+	background-image: url("../images/ShoalBayEast.jpg")
+}
+
+.bodytrunk {
+	background-image: url("../images/trunkBayBeach.jpg")
 }
 
 .cover {
